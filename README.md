@@ -15,4 +15,4 @@
 
 ![ครั้งที่สอง](https://github.com/songritk/aisfibre-report/blob/master/%202560-09-27%20at%2023.42.47.jpg)
 
-### พบปัญหา redirect ผ่าน thddns.net ไม่ได้
+### <s>พบปัญหา redirect ผ่าน thddns.net ไม่ได้</s> แก้ไขเสร็จสิ้น
