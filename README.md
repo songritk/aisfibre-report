@@ -1,4 +1,4 @@
-# aisfibre-report
+# <s>aisfibre-report</s> แก้ไขเสร็จสิ้น
 
 ## 27-sep-2017 1 
 ปัญหา เข้าเว็บไม่ได้ เว็บไซต์ https://scholar.google.com
